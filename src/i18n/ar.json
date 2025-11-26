@@ -1,0 +1,21 @@
+{
+  "common": {
+    "viewDetails": "عرض التفاصيل",
+    "learnMoreAbout": "تعرف على المزيد عن",
+    "paginationPrevious": "السابق",
+    "paginationNext": "التالي",
+    "paginationPortfolioPrev": "العمل السابق",
+    "paginationPortfolioNext": "العمل التالي"
+  },
+  "headerOffcanvas": {
+    "description": "نحن وكالة رقمية تساعد الشركات على إنشاء تجارب غامرة ومبتكرة.",
+    "buttonLabel": "لنتحدث معًا"
+  },
+  "navigation": {
+    "buttonLabel": "ابدأ الآن"
+  },
+  "footer": {
+    "copyright": "حقوق الطبع والنشر © {{ year }} فوليكس / تم التطوير باستخدام [Getastrothemes](https://getastrothemes.com/)",
+    "_comment": "نرجو منكم الإبقاء على حقوق النشر الخاصة بالقالب. شكرًا لدعمكم Getastrothemes!"
+  }
+}

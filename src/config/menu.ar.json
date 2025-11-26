@@ -1,0 +1,24 @@
+{
+  "headerPrimary": [
+    {
+      "enable": true,
+      "name": "الرئيسية",
+      "url": "/"
+    },
+    {
+      "enable": true,
+      "name": "الخدمات",
+      "url": "/#services"
+    },
+    {
+      "enable": true,
+      "name": "المشاريع",
+      "url": "/#projects"
+    },
+    {
+      "enable": true,
+      "name": "الأسعار",
+      "url": "/#office-locations"
+    }
+  ]
+}

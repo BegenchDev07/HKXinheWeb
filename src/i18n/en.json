@@ -1,0 +1,21 @@
+{
+  "common": {
+    "viewDetails": "View Details",
+    "learnMoreAbout": "Learn more about",
+    "paginationPrevious": "Previous",
+    "paginationNext": "Next",
+    "paginationPortfolioPrev": "Previous Portfolio",
+    "paginationPortfolioNext": "Next Portfolio"
+  },
+  "headerOffcanvas": {
+    "description": "We are HK Xinhe Groups, providing advanced fire safety solutions using drones and modern technology to protect lives and property.",
+    "buttonLabel": "Let’s Talk With Us"
+  },
+  "navigation": {
+    "buttonLabel": "Get Started"
+  },
+  "footer": {
+    "copyright": "Copyright © {{ year }} by FlameSystemsSolution",
+    "_comment": ""
+  }
+}
